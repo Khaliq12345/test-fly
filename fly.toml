@@ -4,7 +4,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'test-fly'
+app = 'test-fly-trema'
 primary_region = 'fra'
 
 [build]
